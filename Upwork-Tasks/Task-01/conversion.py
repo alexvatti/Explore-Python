@@ -1,5 +1,5 @@
 #pip install pandas
-#pin install pip install openpyxl
+#pip install openpyxl
 
 '''
 Need python developer to move one excel data to another and rename header using python script. I have 2 excels.
